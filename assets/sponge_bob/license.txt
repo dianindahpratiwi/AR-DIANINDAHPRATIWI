@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sponge Bob
+* source:	https://sketchfab.com/3d-models/sponge-bob-dade7f1341fe41b3b1d62cbe6ecbabd7
+* author:	a.shevchuk (https://sketchfab.com/alex.shevchuk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sponge Bob" (https://sketchfab.com/3d-models/sponge-bob-dade7f1341fe41b3b1d62cbe6ecbabd7) by a.shevchuk (https://sketchfab.com/alex.shevchuk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
